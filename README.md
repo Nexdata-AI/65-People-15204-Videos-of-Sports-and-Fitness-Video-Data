@@ -3,7 +3,7 @@
 ## Description
 65 People –15,204 Videos of Sports and Fitness Video Data. The data collection scene is indoor scenes. The race distribution is Asian, black and Caucasian; the age distribution is young and middle-aged people. The collection device is IR and RGB cameras. The dataset diversity includes different races, different age groups, different shooting angles, different collection distances, different human body orientations, different costumes and various fitness actions. The data can be used for tasks such as human behavior recognition and human segmentation in fitness scenes.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1212?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1212?source=Github
 
 
 ## Data size
